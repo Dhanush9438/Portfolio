@@ -11,20 +11,10 @@ function App() {
   return (
     <div>
       <NavBar />
-
       <Home />
-
-
       <About />
-      <br/>
-
       <Certifications />
-      <br/>
-
-
       <Skills />
-      <br/>
-
 
       <Contact />
       
