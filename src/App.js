@@ -11,12 +11,17 @@ function App() {
   return (
     <div>
       <NavBar />
+
       <Home />
+
       <About />
-      <Skills />
-      <Contact />
+      
       <Certifications />
 
+      <Skills />
+
+      <Contact />
+      
       <SocialLinks />
     </div>
   );
