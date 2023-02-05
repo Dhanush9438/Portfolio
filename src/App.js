@@ -16,7 +16,6 @@ function App() {
 
 
       <About />
-      
 
       <Certifications />
 
@@ -27,6 +26,7 @@ function App() {
       <Contact />
       
       <SocialLinks />
+
     </div>
   );
 }

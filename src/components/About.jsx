@@ -28,6 +28,7 @@ const About = () => {
           I've experiences with various clients, so i can understand your requirements even if you didnt have any experiences about websites. 
           I am excited to continue developing my skills and gaining valuable experiences as an student.
         </p>
+        
       </div>
     </div>
   );
