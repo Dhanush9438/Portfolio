@@ -18,13 +18,10 @@ function App() {
       <About />
       
 
-
       <Certifications />
 
 
-
       <Skills />
-
 
 
       <Contact />
