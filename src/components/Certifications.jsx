@@ -1,7 +1,8 @@
 import React from "react";
 import Js from "../assets/portfolio/js.jpg"
 import Intern from "../assets/portfolio/intern.jpg"
-import navbar from "../assets/portfolio/navbar.jpg"
+
+import google from "../assets/portfolio/google c1.png"
 
 
 export const Certifications = () => {
@@ -17,7 +18,7 @@ export const Certifications = () => {
     
     {
       id: 3,
-      src: navbar,
+      src: google,
     },
 
   ];
