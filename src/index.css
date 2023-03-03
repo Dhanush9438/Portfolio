@@ -11,3 +11,35 @@
     font-family: 'Raleway', sans-serif;
   }
 }
+.contact-botton {
+  color: #ffffff;
+  box-sizing: content-box;
+  cursor: pointer;
+  padding: 8px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 14px;
+  font-family: "Segoe UI", Arial, sans-serif;
+  background: linear-gradient(180deg, #d1460a 0, #d1460a 100%);
+  box-shadow: 0px 0.3px 1px 1px #bb3e08;
+  margin-top: 18px;
+}
+@media screen and (max-width:767px)
+{
+  .contact-botton {
+    margin-bottom: 20px;
+  }
+  .sm\:text-7xl
+  {
+    margin-top: 90px;
+  }
+}
+.h-screen {
+  height: auto;
+}
+@media screen and (min-width:768px)
+{
+  .h-screen {
+    height: 100%;
+  }
+}
