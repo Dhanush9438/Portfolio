@@ -1,8 +1,8 @@
 import React from "react";
 import Js from "../assets/portfolio/js.jpg"
-import Intern from "../assets/portfolio/intern.jpg"
-
-import google from "../assets/portfolio/google c1.png"
+import ai from "../assets/portfolio/ai cer.png"
+import google from "../assets/portfolio/google prof.png"
+import es from "../assets/portfolio/es6 js.png"
 
 
 export const Certifications = () => {
@@ -13,7 +13,7 @@ export const Certifications = () => {
     },
     {
       id: 2,
-      src: Intern,
+      src: ai,
     },
     
     {
@@ -21,12 +21,17 @@ export const Certifications = () => {
       src: google,
     },
 
+    {
+      id:4,
+      src: es,
+    }
+
   ];
 
   return (
     <div
       name="Certifications"
-      className="bg-gradient-to-b from-black to-gray-800 w-full text-white  md:h-screen"
+      className="bg-gradient-to-b from-black to-gray-800 w-full text-white h-screen"
     >
       <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
         <div className="pb-8">
