@@ -1,7 +1,7 @@
 import React from "react";
 import Js from "../assets/portfolio/js.jpg"
 import ai from "../assets/portfolio/ai cer.png"
-import google from "../assets/portfolio/google prof.png"
+import google from "../assets/portfolio/google pro.png"
 import es from "../assets/portfolio/es6 js.png"
 
 
