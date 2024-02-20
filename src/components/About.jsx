@@ -12,7 +12,7 @@ const About = () => {
             About
           </p>
         </div>
-        <p className="text-xl mt-20">
+        <p className="text-xl mt-10">
         Hey, I am Dhanush B. I'm a self-taught full-stack web developer specializing in the MERN stack.
         I write optimized code that makes the web app faster and more scalable. 
         Frontend Developer who focuses on writing clean, elegant and efficient code.
