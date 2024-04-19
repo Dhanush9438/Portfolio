@@ -4,64 +4,59 @@ import html from "../assets/html.png";
 import css from "../assets/css.png";
 import javascript from "../assets/javascript.png";
 import reactImage from "../assets/react.png";
-import node from "../assets/node.png";
-import Mongodb from "../assets/mongodb.png";
 import github from "../assets/github.png";
-import tailwind from "../assets/tailwind.png";
+import spring from "../assets/icons8-spring-boot-240.png"
+import SpringBoot from "../assets/icons8-spring-boot-240.png"
+
 import Java from "../assets/java.png";
 
 const Skills = () => {
   const techs = [
     {
       id: 1,
+      src: Java,
+      title: "Java",
+      style: "shadow-green-400",
+    },
+    {
+      id: 2,
       src: html,
       title: "HTML",
       style: "shadow-orange-500",
     },
     {
-      id: 2,
+      id: 3,
       src: css,
       title: "CSS",
       style: "shadow-blue-500",
     },
     {
-      id: 3,
+      id: 4,
       src: javascript,
       title: "JavaScript",
       style: "shadow-yellow-500",
     },
     {
-      id: 4,
+      id: 5,
       src: reactImage,
       title: "React",
       style: "shadow-blue-600",
     },
     {
-      id: 5,
-      src: tailwind,
-      title: "Tailwind",
-      style: "shadow-sky-400",
-    },
-    {
       id: 6,
-      src: node,
-      title: "Node js",
-      style: "shadow-green-400",
+      src: spring,
+      title: "Spring",
+      style: "shadow-gray-400",
     },
     {
       id: 7,
-      src: Mongodb,
-      title: "MongoDB",
-      style: "shadow-green-400",
+      src: SpringBoot,
+      title: "SpringBoot",
+      style: "shadow-gray-400",
     },
+    
     {
       id: 8,
-      src: Java,
-      title: "Basic Java",
-      style: "shadow-green-400",
-    },
-    {
-      id: 9,
       src: github,
       title: "GitHub",
       style: "shadow-gray-400",

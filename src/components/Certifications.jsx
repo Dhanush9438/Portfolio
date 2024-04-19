@@ -1,8 +1,10 @@
 import React from "react";
 import Js from "../assets/portfolio/js.jpg"
-import ai from "../assets/portfolio/ai cer.png"
 import google from "../assets/portfolio/google pro.png"
 import es from "../assets/portfolio/es6 js.png"
+import java from "../assets/Java Mastering the fundamental.png"
+import jc from "../assets/Java collection.png";
+import solid from "../assets/S.O.L.I.D Principles.png"
 
 
 export const Certifications = () => {
@@ -11,20 +13,29 @@ export const Certifications = () => {
       id: 1,
       src: Js,
     },
+  
     {
       id: 2,
-      src: ai,
-    },
-    
-    {
-      id: 3,
       src: google,
     },
 
     {
-      id:4,
+      id:3,
       src: es,
+    },
+    {
+      id:4,
+      src:java,
+    },
+    {
+      id:5,
+      src:jc,
+    },
+    {
+      id:6,
+      src:solid,
     }
+    
 
   ];
 

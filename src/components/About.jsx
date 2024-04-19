@@ -13,20 +13,11 @@ const About = () => {
           </p>
         </div>
         <p className="text-xl mt-10">
-        Hey, I am Dhanush B. I'm a self-taught full-stack web developer specializing in the MERN stack.
-        I write optimized code that makes the web app faster and more scalable. 
-        Frontend Developer who focuses on writing clean, elegant and efficient code.
+        Hey, I am Dhanush B. Passionate Java developer with expertise in Spring and Spring Boot frameworks, dedicated to crafting high-quality, scalable software solutions.
 
         </p>
 
         <br />
-
-        <p className="text-xl">
-          My job is to develop a website from the scratch and also updating an already developed website. 
-          I read a lot and check with currently trending websites, in order to make your job easier. 
-          I've experiences with various clients, so i can understand your requirements even if you didnt have any experiences about websites. 
-          I am excited to continue developing my skills and gaining valuable experiences as an student.
-        </p>
       </div>
     </div>
   );
