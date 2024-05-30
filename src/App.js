@@ -13,12 +13,9 @@ function App() {
       <NavBar />
       <Home />
       <About />
-      
       <Certifications />
       <Skills />
-
       <Contact />
-      
       <SocialLinks />
 
     </div>
