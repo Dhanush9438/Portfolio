@@ -13,8 +13,7 @@ const About = () => {
           </p>
         </div>
         <p className="text-xl mt-10">
-        Hey, I am Dhanush B. Passionate Java developer with expertise in Spring and Spring Boot frameworks, dedicated to crafting high-quality, scalable software solutions.
-
+        I’m Dhanush B., a software developer with good knowledge of the MERN stack and expertise in Java, specializing in Spring and Spring Boot. I’m passionate about building scalable software solutions and dynamic web applications, driven by a commitment to continuous learning and innovation.
         </p>
 
         <br />
